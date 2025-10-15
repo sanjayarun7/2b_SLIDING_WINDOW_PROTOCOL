@@ -28,6 +28,7 @@ while True:
    if ack:
      print(ack)
      i+=s
+
 ```
 # server
 ```
@@ -40,7 +41,8 @@ while True:
 ```
 
 ## OUPUT
-<img width="1487" height="991" alt="image" src="https://github.com/user-attachments/assets/7290d311-275d-4048-989f-cb19e22fefe7" />
+<img width="1486" height="971" alt="image" src="https://github.com/user-attachments/assets/6155568e-6e09-40ef-8202-787cd7950684" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
